@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Default GET</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>Get Lat Long [ Default GET ]</qualified_name>
+        <rest_endpoint>https://api.geoapify.com/v1/geocode/search</rest_endpoint>
+        <rest_message display_value="Get Lat Long">db69d6ae59d232107f445cf1a8f8d1f6</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-10 18:59:12</sys_created_on>
+        <sys_id>17c9deae59d232107f445cf1a8f8d11c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">56fb4473e5c232107f441835b1712c86</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">56fb4473e5c232107f441835b1712c86</sys_scope>
+        <sys_update_name>sys_rest_message_fn_17c9deae59d232107f445cf1a8f8d11c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-10 18:59:12</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_cdltd_loaner_r_0.Loaner</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>Loaner</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-20 20:10:02</sys_created_on>
+        <sys_id>8ec986fd836e7250ef3fcb96feaad36f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_r_0.Loaner</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">56fb4473e5c232107f441835b1712c86</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">56fb4473e5c232107f441835b1712c86</sys_scope>
+        <sys_update_name>sys_alias_8ec986fd836e7250ef3fcb96feaad36f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-20 20:10:02</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>

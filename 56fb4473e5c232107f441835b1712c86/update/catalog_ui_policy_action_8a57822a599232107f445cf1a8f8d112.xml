@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Loaner Request">3e56f1a2595232107f445cf1a8f8d1f0</catalog_item>
+        <catalog_variable>IO:ef567da2595232107f445cf1a8f8d10a</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-10 17:39:05</sys_created_on>
+        <sys_id>8a57822a599232107f445cf1a8f8d112</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>other</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">56fb4473e5c232107f441835b1712c86</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">56fb4473e5c232107f441835b1712c86</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_8a57822a599232107f445cf1a8f8d112</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-10 17:39:05</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Only SHow 'Other' field if Dept value is 'Other'">aaf68ae6599232107f445cf1a8f8d1af</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>other</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=8a57822a599232107f445cf1a8f8d112"/>
+</record_update>
